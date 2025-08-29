@@ -1,0 +1,12 @@
+git status → Check changes, staged files, branch info
+
+git add <file> → Stage changes for commit
+
+git add . → Stage all changes
+
+git commit -m "your message" → Commit staged changes
+
+git push - to push the code to the server
+
+git branch - to check the branch name
+
